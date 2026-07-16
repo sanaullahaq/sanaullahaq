@@ -12,13 +12,13 @@
 - 🌱 Currently deepening my backend skills with an in-depth **FastAPI** project — async SQLAlchemy/asyncpg, Pydantic v2, JWT auth with a Redis-backed token blocklist, and Celery task queues
 - 💼 **Open to Remote, Full-Time opportunities** — also building out my freelance profile on Upwork
 - 📍 Based in Dhaka, Bangladesh
-- 📫 Reach me at **sanaullahaq01@gmail.com** or **+8801602281315**
+- 📫 Reach me at **sanaullahaq01@gmail.com**
 
 <h2 align="left">Connect With Me:</h2>
 <p align="center">
-<a href="https://x.com/sanaullahaq01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanaullahaq01" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sanstana01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanstana01" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sanaulla-haq-325a6a174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaulla-haq" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sanstana01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanstana01" height="30" width="40" /></a>
+<a href="https://x.com/sanaullahaq01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanaullahaq01" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Find Me Elsewhere:</h2>
