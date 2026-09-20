@@ -7,7 +7,7 @@
 
 <h2 align="left"> About Myself </h2>
 
-- 🔭 Software Engineer with **4+ years** of experience building scalable enterprise applications using **Python (Frappe / Django / FastAPI)**
+- 🔭 Software Engineer with **4+ years** of experience building scalable enterprise applications using **Python (Frappe / FastAPI / Django)**
 - 🏛️ Delivered production systems deployed across **500+ branches**, integrating **ERP** and **national identity (NID) verification services**
 - 🌱 Currently deepening my backend skills with an in-depth **FastAPI** project — async SQLAlchemy/asyncpg, Pydantic v2, JWT auth with a Redis-backed token blocklist, and Celery task queues
 - 💼 **Open to Remote, Full-Time opportunities** — also building out my freelance profile on Upwork
