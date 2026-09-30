@@ -16,7 +16,7 @@
 
 <h2 align="left">Connect With Me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/sanaulla-haq-325a6a174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaulla-haq" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanaullahaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaulla-haq" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sanstana01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanstana01" height="30" width="40" /></a>
 <a href="https://x.com/sanaullahaq01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanaullahaq01" height="30" width="40" /></a>
 </p>
